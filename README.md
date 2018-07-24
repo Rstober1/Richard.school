@@ -1,0 +1,2 @@
+# Richard.school
+School folder
